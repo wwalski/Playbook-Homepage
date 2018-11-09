@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Playbook Table of Contents
+
+1. [Agile]
+2. Automated Testing
+3. DevOps
+4. UI/UX
 
 You can use the [editor on GitHub](https://github.com/wwalski/Playbook_index/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
