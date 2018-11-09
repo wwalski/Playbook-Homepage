@@ -1,4 +1,4 @@
-![Agile Playbook](
+![Agile Playbook](Playbook_index/Playbook-FP-800x400.jpg)
 ## Playbook Table of Contents
 
 1. [Agile]
