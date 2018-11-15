@@ -1,4 +1,4 @@
-![Agile Playbook](Playbook-FP-800x400.jpg)
+![Agile Playbook](xandoimage.jpg)
 # There are six plays:
 
 ## 1. [Agile](https://wwalski.github.io/AgilePB_TOC/)
